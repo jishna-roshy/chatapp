@@ -37,7 +37,7 @@ const Home = () => {
         borderWidth="1px"
       >
         <Text fontSize="4xl" fontFamily="Work sans" textAlign="center">
-          Bit Chat
+          chat app
         </Text>
       </Box>
 
@@ -48,6 +48,7 @@ const Home = () => {
             <Tab>Sign Up</Tab>
           </TabList>
           <TabPanels>
+
             <TabPanel>
               <Login />
             </TabPanel>
